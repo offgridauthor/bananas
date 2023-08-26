@@ -1,2 +1,10 @@
-# bananas
-just another 3d banana landing page
+# falling bananas landing page
+
+ - React
+ - vite
+ - Three.js
+ - react-three-fiber
+ - drei
+ - styled components
+ 
+ 
